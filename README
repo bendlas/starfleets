@@ -1,0 +1,11 @@
+# starfleets
+
+An experiment in mixed languages on the JVM for a game.
+
+## Usage
+
+bin/lein run
+
+## License
+
+Public Domain
