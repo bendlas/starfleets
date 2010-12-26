@@ -1,0 +1,1 @@
+java -cp `bin/lein classpath` scala.tools.nsc.MainGenericRunner -usejavacp
